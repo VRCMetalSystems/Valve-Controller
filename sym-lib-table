@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name WhiteJewel-rescue)(type Legacy)(uri ${KIPRJMOD}/WhiteJewel-rescue.lib)(options "")(descr ""))
+)

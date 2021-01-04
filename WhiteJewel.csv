@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+"LED","D1,D2,D3,D4","Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder","C63855"
+"‎BZX84C5V1LT3G","D5","Diode_SMD:D_SOT-23_ANK",""
+"BZX84C5V1LT3G","D6","Diode_SMD:D_SOT-23_ANK",""
+"Screw_Terminal_01x06","J1,J2","TerminalBlock:TerminalBlock_bornier-6_P5.08mm",""
+"BSS138","Q1,Q2,Q3,Q4","Package_TO_SOT_SMD:SOT-23","C82045"
+"5K","R1,R4,R5,R6,R7,R10","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"," C78980"
+"150","R11,R12","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder","C17471"
+"5k","R2,R3,R8,R9,R13,R14,R15,R16,R17,R18","Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"," C78980"
+"TestPoint","TP1,TP2,TP3,TP4,TP5,TP8","TestPoint:TestPoint_Pad_D2.5mm",""
+"BTS4175SGA","U1,U2","Package_SO:Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm","C152451"
