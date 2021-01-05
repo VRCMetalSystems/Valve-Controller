@@ -30,3 +30,6 @@ clinking the trash can icon
     - Note that the site often gets the rotation of the parts wrong on the render. This is not indicative of the final board and is not an issue
 13. Click on ***Save to cart*** to add the order to cart. 
 14. Get a the credit card from the Purchasing department, Apply any "Coupons" that the site lets you and complete the order.
+15. In addition, the following parts will have to be ordered via Digikey
+      - 1x  377-1807-ND per board
+      - 2x  609-3940-ND per board
