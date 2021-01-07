@@ -10,6 +10,7 @@ All the required files can be found in ./OrderFiles/
 3. WhiteJewel.csv
 
 # Steps
+0. Download/clone this repo and extract it if needed.
 1. Go to [JLCPCB.com](https://cart.jlcpcb.com/quote?orderType=1&stencilWidth=100&stencilLength=100&stencilCounts=5&stencilLayer=2&stencilPly=1.6&steelmeshSellingPriceRecordNum=A8256537-5522-491C-965C-646F5842AEC9&purchaseNumber=)
 2. Click on ***Add your gerber file***
 3. Navigate to CAMFILES.zip and upload it to the site. Wait till you see a preview of the board.
@@ -30,3 +31,6 @@ clinking the trash can icon
     - Note that the site often gets the rotation of the parts wrong on the render. This is not indicative of the final board and is not an issue
 13. Click on ***Save to cart*** to add the order to cart. 
 14. Get a the credit card from the Purchasing department, Apply any "Coupons" that the site lets you and complete the order.
+15. In addition, the following parts will have to be ordered via Digikey
+      - 1x  377-1807-ND per board
+      - 2x  609-3940-ND per board
